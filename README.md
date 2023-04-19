@@ -3,7 +3,7 @@
 Esse é o exercício que fiz no projeto final do trimestre na disciplina de Fundamentos de Python para Processamento de Dados no INFNET. 
 Na linguagem PYTHON usando conteúdos das aulas, como strings, operadores, laços, listas..
 
-Descrição de tudo o que foi pedido dentro deste projeto:
+Descrição do que foi pedido dentro deste projeto:
 
 1) Criação de menu interativo de um sistema de cadastro simples com as seguintes opções:
       Inserir novo cadastro
